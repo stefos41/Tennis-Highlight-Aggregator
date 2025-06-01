@@ -6,7 +6,6 @@
 
 ## 📌 Table of Contents
 - [Features](#-features)
-- [Demo](#-demo)
 - [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
 - [Project Structure](#-project-structure)
@@ -21,17 +20,6 @@
 🎥 **Highlight of the Day** – Randomly picks a featured video daily.  
 🔒 **Secure API** – FastAPI backend with API key authentication.  
 📦 **Database Integration** – HarperDB stores video metadata.
-
----
-
-## 🎥 Demo
-**Chrome Extension**  
-![Extension Demo](https://via.placeholder.com/400x200?text=Chrome+Extension+Demo)
-
-**Streamlit Dashboard**  
-![Dashboard Demo](https://via.placeholder.com/400x200?text=Streamlit+Dashboard)
-
-*Replace with actual screenshots or GIFs in your repo!*
 
 ---
 

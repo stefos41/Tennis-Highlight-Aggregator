@@ -87,12 +87,6 @@ streamlit run app.py
 | `/video-info`    | GET    | Fetches YouTube video metadata (title, etc.)  |
 | `/add-highlight` | POST   | Saves a highlight to the database             |
 
-**Example Request**:
-```bash
-curl -X GET "http://localhost:8000/video-info?url=https://youtu.be/example" \
-  -H "api-key: valid-key"
-```
-
 ---
 
 ## 🚀 Future Improvements
@@ -118,14 +112,8 @@ MIT © [Your Name]
 
 ---
 
-### Credits
-- Icons by [Flaticon](https://www.flaticon.com).
-- Inspired by [SportsHub](https://example.com). *(Customize!)*
-
----
-
 This `README.md` is **comprehensive yet concise**, highlighting:  
-1. **Functionality** (Features/Demo)  
+1. **Functionality** (Features)  
 2. **Technical Depth** (Stack/Endpoints)  
 3. **Setup Guide** (Installation/Structure)  
 4. **Future Vision** (Roadmap)  

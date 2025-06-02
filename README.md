@@ -111,11 +111,3 @@ MIT © [Your Name]
 *Star ⭐ the repo if you find it useful!*
 
 ---
-
-This `README.md` is **comprehensive yet concise**, highlighting:  
-1. **Functionality** (Features)  
-2. **Technical Depth** (Stack/Endpoints)  
-3. **Setup Guide** (Installation/Structure)  
-4. **Future Vision** (Roadmap)  
-
-**Tip**: Add screenshots/GIFs to make it visually appealing! 🖼️

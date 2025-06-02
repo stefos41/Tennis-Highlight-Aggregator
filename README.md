@@ -97,13 +97,8 @@ streamlit run app.py
 
 ---
 
-## 📜 License
-MIT © [Your Name]
-
 **Let’s connect!**  
-[LinkedIn] | [Portfolio] | [Email]
-
-*Replace placeholders with your info!*
+[LinkedIn] | [stefos217@gmail.com]
 
 ---
 

@@ -1,0 +1,16 @@
+# Core Backend Requirements
+fastapi==0.109.1
+uvicorn==0.27.0
+python-dotenv==1.0.0
+harperdb-py==4.1.5
+yt-dlp==2024.4.9
+dotenv==0.9.9
+
+# Frontend/Dashboard
+streamlit==1.32.0
+pypdf2==3.0.1
+pillow==10.2.0
+
+# Data Processing
+pydantic==2.6.4
+requests==2.31.0

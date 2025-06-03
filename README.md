@@ -1,4 +1,4 @@
-# 🎾 Tennis Highlights Manager
+# 🎾 Tennis Highlights Aggregator
 
 *A full-stack application for discovering, saving, and managing tennis highlight videos from YouTube.*
 

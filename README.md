@@ -89,6 +89,15 @@ streamlit run app.py
 
 ---
 
+## 🚦 To Run
+1. make sure you add your cloud harperedb url, username, and password into the correct areas
+2. Select the developer mode in manage extensions and add the chrome extension folder from the repositorie into "load unpacked" 
+3. Run the api.py folder
+4. Lastly run the app.py folder and the streamlit webpage will pop up
+5. Now the chrome extension is sinked with the webpage and highlights can be added
+
+---
+
 ## 🚀 Future Improvements
 - **User Authentication** – Replace API keys with OAuth/JWT.
 - **Advanced Search** – Filter highlights by player/tournament.

@@ -110,7 +110,9 @@ streamlit run app.py
 ---
 
 **Let’s connect!**  
-[LinkedIn] | [stefos217@gmail.com]
+[LinkedIn Profile](https://www.linkedin.com/in/stefan-spatariu-b03bb7369/?trk=opento_sprofile_topcard)
+stef.spat4@outlook.com
+
 
 ---
 
